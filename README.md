@@ -1,9 +1,5 @@
 Book Shop Project
 
-Description
-
-This project is an online book shop system built using React JS, Node JS, Express JS, MongoDB, JWT Token, and Tailwind CSS. It provides a platform for buying and selling books through a user-friendly web interface.
-
 Features
 
 User Authentication: Register and login securely using JWT tokens.
