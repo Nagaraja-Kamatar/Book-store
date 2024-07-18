@@ -26,16 +26,3 @@ cd ..
 cd server
 npm install
 Usage
-
-Start the server:
-
-bash
-Copy code
-cd server
-npm start
-Start the client:
-
-bash
-Copy code
-cd client
-npm start
