@@ -10,11 +10,3 @@ Responsive Design: Ensures a seamless experience across devices.
 Search and Filter: Easily find books based on title, author, genre, etc.
 Installation
 
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/yourusername/book-shop.git
-Install dependencies for both server and client:
-
-
