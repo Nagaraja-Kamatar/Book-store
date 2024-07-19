@@ -17,12 +17,4 @@ Copy code
 git clone https://github.com/yourusername/book-shop.git
 Install dependencies for both server and client:
 
-bash
-Copy code
-cd book-shop
-cd client
-npm install
-cd ..
-cd server
-npm install
-Usage
+
