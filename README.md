@@ -21,6 +21,5 @@ Welcome to the Book Store project! This application is designed to manage and se
 - **Database:** MongoDB
 - **Authentication:** JWT (JSON Web Token)
 
-## Getting Started
 
 
