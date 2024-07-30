@@ -19,7 +19,6 @@ Welcome to the Book Store project! This application is designed to manage and se
 - **Frontend:** React.js, Tailwind CSS
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
-- **Authentication:** JWT (JSON Web Token)
 
 
 
